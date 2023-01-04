@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14886" started-at="2023-01-04T06:42:39Z" finished-at="2023-01-04T06:42:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14886" started-at="2023-01-04T06:42:39Z" finished-at="2023-01-04T06:42:54Z">
+      <class name="org.exe.ExecutionClass">
+        <test-method status="PASS" signature="launch()[pri:0, instance:org.exe.ExecutionClass@43301423]" name="launch" is-config="true" duration-ms="5539" started-at="2023-01-04T06:42:39Z" finished-at="2023-01-04T06:42:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="m1()[pri:0, instance:org.exe.ExecutionClass@43301423]" name="m1" duration-ms="1611" started-at="2023-01-04T06:42:45Z" finished-at="2023-01-04T06:42:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:org.exe.ExecutionClass@43301423]" name="m2" duration-ms="2559" started-at="2023-01-04T06:42:47Z" finished-at="2023-01-04T06:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method status="PASS" signature="m3()[pri:0, instance:org.exe.ExecutionClass@43301423]" name="m3" duration-ms="1473" started-at="2023-01-04T06:42:49Z" finished-at="2023-01-04T06:42:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method status="PASS" signature="m4()[pri:0, instance:org.exe.ExecutionClass@43301423]" name="m4" duration-ms="1337" started-at="2023-01-04T06:42:51Z" finished-at="2023-01-04T06:42:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m4 -->
+        <test-method status="PASS" signature="m5()[pri:0, instance:org.exe.ExecutionClass@43301423]" name="m5" duration-ms="2324" started-at="2023-01-04T06:42:52Z" finished-at="2023-01-04T06:42:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m5 -->
+      </class> <!-- org.exe.ExecutionClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
